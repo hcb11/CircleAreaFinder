@@ -8,3 +8,8 @@ I have made this app with C.
  You can contact me if you've compiled it for another OS
  
  If your not a pro in coding you can compile with the provided "compile.bat" file by opening it. This file only works in windows
+
+You can contact me at:
+
+Instagram: @hcbose_techguy
+Facebook: https://www.facebook.com/harshad.c.bose
