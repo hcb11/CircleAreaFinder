@@ -11,5 +11,6 @@ I have made this app with C.
 
 You can contact me at:
 
-Instagram: @hcbose_techguy
+Instagram: https://www.instagram.com/hcbose_techguy/
+
 Facebook: https://www.facebook.com/harshad.c.bose
